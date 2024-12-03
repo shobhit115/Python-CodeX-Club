@@ -1,17 +1,3 @@
-
-
-  .oooooo.                   .o8            ooooooo  ooooo 
- d8P'  `Y8b                 "888             `8888    d8'  
-888           .ooooo.   .oooo888   .ooooo.     Y888..8P    
-888          d88' `88b d88' `888  d88' `88b     `8888'     
-888          888   888 888   888  888ooo888    .8PY888.    
-`88b    ooo  888   888 888   888  888    .o   d8'  `888b   
- `Y8bood8P'  `Y8bod8P' `Y8bod88P" `Y8bod8P' o888o  o88888o 
-
-Here's a concise and informative README template for your Codex Club Python repository:  
-
----
-
 # Codex Club Python Repository  
 
 Welcome to the **Codex Club Python Repository**! 🎉  
