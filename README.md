@@ -15,7 +15,7 @@ Codex Club is a student-driven community at **Quantum University** focused on de
 
 The repository is organized as follows:  
 
-- **Basics**: Python fundamentals (lists, tuples, dictionaries, functions, etc.).  
+- **Resources**: Python fundamentals resources(lists, tuples, dictionaries, functions, etc.).  
 - **Projects**: Hands-on projects showcasing Python in action.  
 - **Algorithms**: A collection of common algorithms and their Python implementations.  
 - **Resources**: Useful guides, cheat sheets, and links for Python developers.  
